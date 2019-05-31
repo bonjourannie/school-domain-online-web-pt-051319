@@ -1,5 +1,5 @@
 # code here!
-class The School
+class School
   
   def initialize(school_name)
     @school_name = school_name
